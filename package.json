@@ -1,0 +1,38 @@
+{
+  "name": "com.seakaytee.bunny",
+  "displayName": "Bunny Quest",
+  "version": "1.0.0",
+  "description": "Help the Easter Bunny deliver his eggs!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Seakaytee",
+  "license": "Apache-2.0",
+  "devDependencies": {
+    "cordova-android": "^11.0.0",
+    "cordova-plugin-proguard": "^2.2.0",
+    "cordova-plugin-screen-orientation": "^3.0.2",
+    "es6-promise-plugin": "^4.2.2"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-screen-orientation": {},
+      "admob-plus-cordova": {
+        "APP_ID_ANDROID": "ca-app-pub-7124522495709382~9780047868",
+        "APP_ID_IOS": "ca-app-pub-7124522495709382~4639401822",
+        "PLAY_SERVICES_VERSION": "20.6.0"
+      },
+      "cordova-plugin-proguard": {}
+    }
+  },
+  "dependencies": {
+    "admob-plus-cordova": "1.28.0"
+  }
+}

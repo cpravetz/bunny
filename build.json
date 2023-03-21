@@ -1,0 +1,12 @@
+{
+    "android": {
+        "release": {
+            "keystore": "../cordova2.keystore",
+            "storePassword": "meatBalls",
+            "alias": "bunny",
+            "password" : "bunny2059",
+            "keystoreType": "",
+            "packageType": "bundle"
+        }
+    }
+}

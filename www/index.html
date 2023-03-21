@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="Content-Security-Policy" content="default-src 'self' 'unsafe-inline' data: https://ssl.gstatic.com 'unsafe-eval'; style-src 'self' 'unsafe-inline'; media-src *; img-src 'self' data: content:;">
+        <meta name="format-detection" content="telephone=no">
+        <meta name="msapplication-tap-highlight" content="no">
+		<meta id="viewport" name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
+        <meta name="color-scheme" content="light dark">
+        <link rel="stylesheet" href="css/index.css">
+		<meta name="apple-mobile-web-app-capable" content="yes">
+		<meta name="apple-mobile-web-app-status-bar-style" content="black">
+        <title>Bunny Quest</title>
+    </head>
+    <body>
+		<div id="screen"></div>
+	
+        <script src="cordova.js"></script>
+		<script type="text/javascript" src="js/ckt.admobplus.js"></script>
+		<script type="module">
+			import { device } from './js/melonjs.module.js';
+			import onload from './js/index.js';
+
+			device.onReady(() => {
+				onload();
+			});
+		</script>
+    </body>
+</html>

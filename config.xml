@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="com.seakaytee.bunny" version="1.0.0" android-versionCode="10005" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+    <name>Bunny Quest</name>
+    <description>An Easter themed game suitable for kids</description>
+    <author email="help@seakaytee.com" href="https://seakaytee.com">
+        Seakaytee, Inc.
+    </author>
+	<preference name="Orientation" value="landscape"/>
+	<preference name="Fullscreen" value="true"/>
+	<preference name="deployment-target" value="14"/>
+	<preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/icon.png"/>
+    <content src="index.html" />
+    <allow-intent href="http://*/*" />
+    <allow-intent href="https://*/*" />
+    <icon src="res/icon.png" />
+
+</widget>

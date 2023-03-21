@@ -1,0 +1,690 @@
+{
+  "frames": [
+    {
+      "filename": "bush_01_green_01.png",
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1375,
+        "h": 427
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1375,
+        "h": 427
+      },
+      "sourceSize": {
+        "w": 1375,
+        "h": 427
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bush_03_green_01.png",
+      "frame": {
+        "x": 1375,
+        "y": 0,
+        "w": 663,
+        "h": 252
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 663,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 663,
+        "h": 252
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bush_03_green_02.png",
+      "frame": {
+        "x": 1375,
+        "y": 252,
+        "w": 663,
+        "h": 252
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 663,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 663,
+        "h": 252
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bush_01_green_02.png",
+      "frame": {
+        "x": 0,
+        "y": 427,
+        "w": 1375,
+        "h": 427
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1375,
+        "h": 427
+      },
+      "sourceSize": {
+        "w": 1375,
+        "h": 427
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bush_03_green_03.png",
+      "frame": {
+        "x": 1375,
+        "y": 504,
+        "w": 663,
+        "h": 252
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 663,
+        "h": 252
+      },
+      "sourceSize": {
+        "w": 663,
+        "h": 252
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bush_04_green_01.png",
+      "frame": {
+        "x": 1375,
+        "y": 756,
+        "w": 310,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 310,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 310,
+        "h": 349
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bush_01_green_03.png",
+      "frame": {
+        "x": 0,
+        "y": 854,
+        "w": 1375,
+        "h": 427
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 1375,
+        "h": 427
+      },
+      "sourceSize": {
+        "w": 1375,
+        "h": 427
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bush_04_green_02.png",
+      "frame": {
+        "x": 1685,
+        "y": 756,
+        "w": 310,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 310,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 310,
+        "h": 349
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "bush_04_green_03.png",
+      "frame": {
+        "x": 1375,
+        "y": 1105,
+        "w": 310,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 310,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 310,
+        "h": 349
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "blueChest.png",
+      "frame": {
+        "x": 1685,
+        "y": 1105,
+        "w": 256,
+        "h": 249
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 256,
+        "h": 249
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 254
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "redChest.png",
+      "frame": {
+        "x": 1685,
+        "y": 1354,
+        "w": 256,
+        "h": 247
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 3,
+        "w": 256,
+        "h": 247
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "blue_flower_front_small.png",
+      "frame": {
+        "x": 0,
+        "y": 1601,
+        "w": 148,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 148,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 148,
+        "h": 295
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "pink_flower_front_small.png",
+      "frame": {
+        "x": 0,
+        "y": 1281,
+        "w": 148,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 148,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 148,
+        "h": 295
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "grass_01.png",
+      "frame": {
+        "x": 0,
+        "y": 1896,
+        "w": 182,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 182,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 95
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "white_flower_front_small.png",
+      "frame": {
+        "x": 148,
+        "y": 1601,
+        "w": 148,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 148,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 148,
+        "h": 295
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "yellow_flower_front_small.png",
+      "frame": {
+        "x": 148,
+        "y": 1281,
+        "w": 148,
+        "h": 295
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 148,
+        "h": 295
+      },
+      "sourceSize": {
+        "w": 148,
+        "h": 295
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "grass_02.png",
+      "frame": {
+        "x": 182,
+        "y": 1896,
+        "w": 182,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 182,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 95
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "greenChest.png",
+      "frame": {
+        "x": 296,
+        "y": 1601,
+        "w": 256,
+        "h": 246
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 256,
+        "h": 246
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 246
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "grass_03.png",
+      "frame": {
+        "x": 296,
+        "y": 1454,
+        "w": 182,
+        "h": 95
+      },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 182,
+        "h": 95
+      },
+      "sourceSize": {
+        "w": 182,
+        "h": 95
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "hole7.png",
+      "frame": {
+        "x": 478,
+        "y": 1454,
+        "w": 238,
+        "h": 85
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 54,
+        "w": 238,
+        "h": 85
+      },
+      "sourceSize": {
+        "w": 238,
+        "h": 160
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "turqChest.png",
+      "frame": {
+        "x": 716,
+        "y": 1281,
+        "w": 256,
+        "h": 245
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 256,
+        "h": 245
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 250
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "goldChest.png",
+      "frame": {
+        "x": 972,
+        "y": 1281,
+        "w": 256,
+        "h": 242
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 5,
+        "w": 256,
+        "h": 242
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 247
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "blue_flower_side_small.png",
+      "frame": {
+        "x": 1228,
+        "y": 1281,
+        "w": 144,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 213
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "sml_chest_closed.png",
+      "frame": {
+        "x": 1372,
+        "y": 1454,
+        "w": 256,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 27,
+        "w": 256,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 256,
+        "h": 229
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "pink_flower_side_small.png",
+      "frame": {
+        "x": 1228,
+        "y": 1493,
+        "w": 144,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 213
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "white_flower_side_small.png",
+      "frame": {
+        "x": 972,
+        "y": 1523,
+        "w": 144,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 213
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    {
+      "filename": "yellow_flower_side_small.png",
+      "frame": {
+        "x": 716,
+        "y": 1735,
+        "w": 144,
+        "h": 212
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 0,
+        "y": 0,
+        "w": 144,
+        "h": 212
+      },
+      "sourceSize": {
+        "w": 144,
+        "h": 213
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  ],
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "decor.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 2048,
+      "h": 2048
+    },
+    "scale": 1
+  }
+}
