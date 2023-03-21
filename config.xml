@@ -8,6 +8,7 @@
 	<preference name="Orientation" value="landscape"/>
 	<preference name="Fullscreen" value="true"/>
 	<preference name="deployment-target" value="14"/>
+    <preference name="SwiftVersion" value="5.3"/>
 	<preference name="AndroidWindowSplashScreenAnimatedIcon" value="res/icon.png"/>
     <content src="index.html" />
     <allow-intent href="http://*/*" />
