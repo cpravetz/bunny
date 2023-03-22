@@ -28,14 +28,13 @@
       "cordova-plugin-screen-orientation": {},
       "cordova-plugin-proguard": {},
       "admob-plus-cordova": {
-        "APP_ID_ANDROID": "ca-app-pub-7124522495709382/7009797687",
-        "APP_ID_IOS": "ca-app-pub-7124522495709382~7061751694",
-        "USAGE": "This identifier will be used to deliver personalized ads to you.",
-        "DISABLESDKCRASHREPORTING": "false"
+        "APP_ID_ANDROID": "ca-app-pub-7124522495709382~9780047868",
+        "APP_ID_IOS": "ca-app-pub-7124522495709382~4639401822",
+        "PLAY_SERVICES_VERSION": "20.6.0"
       }
     }
   },
   "dependencies": {
-    "admob-plus-cordova": "1.28.0"
+    "admob-plus-cordova": "git+https://github.com/Sayene/admob-plus-cordova.git"
   }
 }
